@@ -1,11 +1,12 @@
 {
-  "name": "@lotusengine/eslint",
+  "name": "@lotusengine/eslint-config-lotusengine",
   "description": "LotusEngine ESLint config",
   "version": "0.0.1",
   "author": "@lotusengine",
-  "dependencies": {},
   "devDependencies": {
-    "eslint": "^7.19.0",
+    "eslint": "^7.19.0"
+  },
+  "dependencies": {
     "eslint-config-prettier": "^7.2.0",
     "eslint-config-standard": "^16.0.1",
     "eslint-plugin-import": "^2.22.1",

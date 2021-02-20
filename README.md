@@ -1,4 +1,4 @@
-lotusengine-eslint
-====================
+LotusEngine ESLint rules
+========================
 
-ESLint comming config
+ESLint common config.

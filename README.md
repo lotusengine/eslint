@@ -1,4 +1,4 @@
 LotusEngine ESLint rules
 ========================
 
-ESLint common config.
+ESLint common config rules.

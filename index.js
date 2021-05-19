@@ -5,8 +5,8 @@ module.exports = {
   extends: [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
-    "prettier/@typescript-eslint",
-    "plugin:prettier/recommended",
+   // "prettier/@typescript-eslint",
+   // "plugin:prettier/recommended",
     "plugin:react/recommended",
   ],
   rules: {
@@ -21,6 +21,7 @@ module.exports = {
   },
   settings: {
     react: {
+      // https://github.com/yannickcr/eslint-plugin-react/blob/3885641ee344424486de15f8d44769b4a43d3ab5/lib/util/version.js#L34-L43
       version: "999.999.999",
     },
   },

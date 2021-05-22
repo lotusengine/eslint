@@ -24,8 +24,8 @@
     "node": ">= 8.0.0"
   },
   "files": [
-    "/index.yaml"
+    "/index.json"
   ],
   "license": "MIT",
-  "main": "index.yaml"
+  "main": "index.json"
 }

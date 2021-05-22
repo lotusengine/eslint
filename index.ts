@@ -1,12 +1,12 @@
-module.exports = {
+export default {
   root: true,
   parser: "@typescript-eslint/parser",
   plugins: ["@typescript-eslint", "react"],
   extends: [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
-   // "prettier/@typescript-eslint",
-   // "plugin:prettier/recommended",
+    "prettier/@typescript-eslint",
+    "plugin:prettier/recommended",
     "plugin:react/recommended",
   ],
   rules: {

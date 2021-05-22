@@ -12,7 +12,7 @@ extends:
 - plugin:prettier/recommended
 - plugin:react/recommended
 rules:
-  'unused-imports/no-unused-imports': 'error'
+  'unused-imports/no-unused-imports': 'warn'
   'unused-imports/no-unused-vars': 'off'
   '@typescript-eslint/no-unused-vars': 'off'
   '@typescript-eslint/no-explicit-any': 'off'

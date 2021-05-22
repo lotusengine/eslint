@@ -23,8 +23,8 @@
     "node": ">= 8.0.0"
   },
   "files": [
-    "/index.ts"
+    "/index.yaml"
   ],
   "license": "MIT",
-  "main": "index.ts"
+  "main": "index.yaml"
 }
